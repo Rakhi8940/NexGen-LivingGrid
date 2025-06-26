@@ -48,10 +48,36 @@
 
 ---
 
-## 🖥️ System Architecture
+## 🏠 Hardware Setup
 
 <p align="center">
-  <img src="assets/nexgen_livinggrid_architecture.png" width="700" alt="System Architecture" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 16px;">
+  <img src="https://github.com/user-attachments/assets/05a29c43-d6b0-459f-9035-c4dc96ac4775" width="420" alt="Complete Hardware Setup" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 16px; margin: 8px;">
+  <img src="https://github.com/user-attachments/assets/28d8c2fd-f028-441a-9b6a-1ed621a2026d" width="420" alt="Hardware Close-Up" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 16px; margin: 8px;">
+</p>
+
+---
+
+## 📊 Node-RED Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cca8db47-b74c-405f-9f26-d0e2ea5744bf" width="420" alt="Node-RED Main Dashboard" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 16px; margin: 8px;">
+  <img src="https://github.com/user-attachments/assets/783fad1e-0544-429f-a5c1-396c34c958ab" width="420" alt="Node-RED Flow View" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 16px; margin: 8px;">
+</p>
+
+---
+
+## 📱 Blynk IoT Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a6aad36-4199-46c4-94b7-22cdb42f3cb1" width="320" alt="Blynk Dashboard Overview" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 16px; margin: 8px;">
+
+---
+
+## 🏡 My Smart Home
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f68ce2ea-f782-49ae-b4c2-53da3457e6b1" width="420" alt="Smart Home Front View" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 16px; margin: 8px;">
+  <img src="https://github.com/user-attachments/assets/604a1e56-2dbb-493d-a324-1acbce75c20a" width="420" alt="Smart Home Inside View" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 16px; margin: 8px;">
 </p>
 
 ---
